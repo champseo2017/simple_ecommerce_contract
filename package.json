@@ -1,0 +1,30 @@
+{
+  "name": "truffle_101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/champseo2017/truffle_101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/champseo2017/truffle_101/issues"
+  },
+  "homepage": "https://github.com/champseo2017/truffle_101#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "truffle": "5.5.19",
+    "truffle-contract": "4.0.31",
+    "lite-server": "^2.3.0"
+  }
+}
